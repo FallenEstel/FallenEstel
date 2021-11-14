@@ -1,4 +1,4 @@
-I'm GitRed! I'm a student, procrastinator, disappointment, gamer and most importantly, a professional disappointment. Oh wait i already said that didnt i?
+I'm GitRed! I'm a student, procrastinator, disappointment, gamer and most importantly, a professional disappointment. Oh wait i already said that didnt i? (Stolen from @Just5MoreMinutes, dont worry were friends... i think)
 - 👋 Hi, I’m @GitRedLord
 - 👀 I’m interested in random things.
 - 🌱 I’m currently learning electron/javascript.
