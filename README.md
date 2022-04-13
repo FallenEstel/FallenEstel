@@ -1,6 +1,6 @@
-HI i'm Estel! I'm a student, procrastinator, xr enthusiast, gamer and most importantly, a professional disappointment. (Stolen from @Just5MoreMinutes, dont worry were friends... i think) Currently im learning python... again cause AI. If you want to collaborate with me hit me up on twitter or discord(RedLord#1347), got no real Project rn so im all free.
+HI i'm Estel! I'm a student, procrastinator, xr enthusiast, gamer and unbelievably ambitious. Currently im working on a game with a couple of quirks you wouldnt expect. I love talking about my projects so if you want to know more or collaborate dont hesitate to just dm me on Twitter (@FallenEstel) or Discord (FallenEstel#1347).
 
 <!---
-GitRedLord/GitRedLord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FallenEstel/FallenEstel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
